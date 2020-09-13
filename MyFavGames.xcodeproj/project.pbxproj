@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D1D90E0250E8FF000FF9765 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D1D90DF250E8FF000FF9765 /* WebKit.framework */; };
+		4D1D90EC250E9A2B00FF9765 /* WarThunder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E2250E9A2B00FF9765 /* WarThunder.jpg */; };
+		4D1D90ED250E9A2B00FF9765 /* TheyAreBillions.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E3250E9A2B00FF9765 /* TheyAreBillions.jpg */; };
+		4D1D90EE250E9A2B00FF9765 /* GRID.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E4250E9A2B00FF9765 /* GRID.jpg */; };
+		4D1D90EF250E9A2B00FF9765 /* Subnautica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E5250E9A2B00FF9765 /* Subnautica.jpg */; };
+		4D1D90F0250E9A2B00FF9765 /* Rust.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E6250E9A2B00FF9765 /* Rust.png */; };
+		4D1D90F1250E9A2B00FF9765 /* Terraria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E7250E9A2B00FF9765 /* Terraria.jpg */; };
+		4D1D90F2250E9A2B00FF9765 /* PUBG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E8250E9A2B00FF9765 /* PUBG.jpg */; };
+		4D1D90F3250E9A2B00FF9765 /* Wreckfest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90E9250E9A2B00FF9765 /* Wreckfest.jpg */; };
+		4D1D90F4250E9A2B00FF9765 /* Squad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90EA250E9A2B00FF9765 /* Squad.jpg */; };
+		4D1D90F5250E9A2B00FF9765 /* RocketLeague.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D1D90EB250E9A2B00FF9765 /* RocketLeague.jpg */; };
 		4D31EA2B250E8E1300300776 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D31EA2A250E8E1300300776 /* AppDelegate.swift */; };
 		4D31EA2D250E8E1300300776 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D31EA2C250E8E1300300776 /* SceneDelegate.swift */; };
 		4D31EA2F250E8E1300300776 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D31EA2E250E8E1300300776 /* MasterViewController.swift */; };
@@ -17,6 +28,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D1D90DF250E8FF000FF9765 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		4D1D90E2250E9A2B00FF9765 /* WarThunder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = WarThunder.jpg; path = ../../../../Downloads/WarThunder.jpg; sourceTree = "<group>"; };
+		4D1D90E3250E9A2B00FF9765 /* TheyAreBillions.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = TheyAreBillions.jpg; path = ../../../../Downloads/TheyAreBillions.jpg; sourceTree = "<group>"; };
+		4D1D90E4250E9A2B00FF9765 /* GRID.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = GRID.jpg; path = ../../../../Downloads/GRID.jpg; sourceTree = "<group>"; };
+		4D1D90E5250E9A2B00FF9765 /* Subnautica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Subnautica.jpg; path = ../../../../Downloads/Subnautica.jpg; sourceTree = "<group>"; };
+		4D1D90E6250E9A2B00FF9765 /* Rust.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Rust.png; path = ../../../../Downloads/Rust.png; sourceTree = "<group>"; };
+		4D1D90E7250E9A2B00FF9765 /* Terraria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Terraria.jpg; path = ../../../../Downloads/Terraria.jpg; sourceTree = "<group>"; };
+		4D1D90E8250E9A2B00FF9765 /* PUBG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = PUBG.jpg; path = ../../../../Downloads/PUBG.jpg; sourceTree = "<group>"; };
+		4D1D90E9250E9A2B00FF9765 /* Wreckfest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Wreckfest.jpg; path = ../../../../Downloads/Wreckfest.jpg; sourceTree = "<group>"; };
+		4D1D90EA250E9A2B00FF9765 /* Squad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Squad.jpg; path = ../../../../Downloads/Squad.jpg; sourceTree = "<group>"; };
+		4D1D90EB250E9A2B00FF9765 /* RocketLeague.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = RocketLeague.jpg; path = ../../../../Downloads/RocketLeague.jpg; sourceTree = "<group>"; };
 		4D31EA27250E8E1300300776 /* MyFavGames.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavGames.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D31EA2A250E8E1300300776 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D31EA2C250E8E1300300776 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,17 +55,45 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D1D90E0250E8FF000FF9765 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4D1D90DE250E8FF000FF9765 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4D1D90DF250E8FF000FF9765 /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4D1D90E1250E971800FF9765 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				4D1D90E4250E9A2B00FF9765 /* GRID.jpg */,
+				4D1D90E8250E9A2B00FF9765 /* PUBG.jpg */,
+				4D1D90EB250E9A2B00FF9765 /* RocketLeague.jpg */,
+				4D1D90E6250E9A2B00FF9765 /* Rust.png */,
+				4D1D90EA250E9A2B00FF9765 /* Squad.jpg */,
+				4D1D90E5250E9A2B00FF9765 /* Subnautica.jpg */,
+				4D1D90E7250E9A2B00FF9765 /* Terraria.jpg */,
+				4D1D90E3250E9A2B00FF9765 /* TheyAreBillions.jpg */,
+				4D1D90E2250E9A2B00FF9765 /* WarThunder.jpg */,
+				4D1D90E9250E9A2B00FF9765 /* Wreckfest.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		4D31EA1E250E8E1300300776 = {
 			isa = PBXGroup;
 			children = (
+				4D1D90E1250E971800FF9765 /* Images */,
 				4D31EA29250E8E1300300776 /* MyFavGames */,
 				4D31EA28250E8E1300300776 /* Products */,
+				4D1D90DE250E8FF000FF9765 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -129,8 +179,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D31EA39250E8E1400300776 /* LaunchScreen.storyboard in Resources */,
+				4D1D90F0250E9A2B00FF9765 /* Rust.png in Resources */,
+				4D1D90F4250E9A2B00FF9765 /* Squad.jpg in Resources */,
+				4D1D90F1250E9A2B00FF9765 /* Terraria.jpg in Resources */,
+				4D1D90EC250E9A2B00FF9765 /* WarThunder.jpg in Resources */,
 				4D31EA36250E8E1400300776 /* Assets.xcassets in Resources */,
+				4D1D90ED250E9A2B00FF9765 /* TheyAreBillions.jpg in Resources */,
+				4D1D90EF250E9A2B00FF9765 /* Subnautica.jpg in Resources */,
+				4D1D90F3250E9A2B00FF9765 /* Wreckfest.jpg in Resources */,
+				4D1D90F2250E9A2B00FF9765 /* PUBG.jpg in Resources */,
 				4D31EA34250E8E1300300776 /* Main.storyboard in Resources */,
+				4D1D90EE250E9A2B00FF9765 /* GRID.jpg in Resources */,
+				4D1D90F5250E9A2B00FF9765 /* RocketLeague.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,7 +357,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFavGames;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -314,7 +374,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFavGames;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
